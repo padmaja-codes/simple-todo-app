@@ -1,0 +1,24 @@
+.list-item {
+  list-style-type: none;
+}
+.todo-item {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.todo-name {
+  color: #000000;
+  font-size: 18px;
+  font-weight: 400;
+}
+.del-button {
+  background-color: transparent;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  font-size: 18px;
+  border-radius: 8px;
+  padding: 0px 8px;
+  height: 35px;
+  width: 80px;
+  font-weight: 500;
+}
